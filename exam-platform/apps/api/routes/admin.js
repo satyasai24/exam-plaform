@@ -1,0 +1,1 @@
+// Placeholder content for apps/api/routes/admin.js

@@ -1,0 +1,1 @@
+// Placeholder content for apps/web/pages/admin/dashboard.js
